@@ -15,27 +15,13 @@ Sistema de gerenciamento de fluxo de caixa desenvolvido em Java, permitindo o ca
 
 ## Estrutura do Projeto
 
-Projeto01-Calculadora-Fluxo/
-│
-├── src/
-│   │
-│   ├── application/
-│   │   └── Program.java
-│   │
-│   ├── entities/
-│   │   ├── Movimentacao.java
-│   │   └── enums/
-│   │       └── Categorias.java
-│   │
-│   ├── services/
-│   │   └── FluxoDeCaixaService.java
-│   │
-│   └── exception/
-│       └── FluxoDeCaixaException.java
-│
-├── .gitignore
-│
-└── README.md
+- src/application/Program.java
+- src/entities/Movimentacao.java
+- src/entities/enums/Categorias.java
+- src/services/FluxoDeCaixaService.java
+- src/exception/FluxoDeCaixaException.java
+- .gitignore
+- README.md
 
 ## Tecnologias Utilizadas
 
