@@ -49,8 +49,8 @@ Sistema de gerenciamento de fluxo de caixa desenvolvido em Java, permitindo o ca
 
 Fabrício Bezerra
 
-- LinkedIn: https://linkedin.com/in/seu-usuario
-- GitHub: https://github.com/seu-usuario
+- LinkedIn: https://linkedin.com/in/fabriciobzrr
+- GitHub: https://github.com/fabriciobzrr
 
 ## Licença
 
